@@ -1,3 +1,7 @@
+/*
+  This is based on the BLE_client example code.
+*/
+
 #include "BLEDevice.h"
 
 // BLE UART 서비스와 Rx/Tx UUID

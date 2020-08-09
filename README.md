@@ -1,4 +1,4 @@
-# ESP32 BLE uart client example
+# ESP32 BLE uart client example for arduino
 
 
 ### BLE_uart_client (central)
